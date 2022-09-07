@@ -16,7 +16,7 @@ def export_html_code(widget):
 
 <!-- Load IPywidgets bundle for embedding. -->
 <script 
-  src="https://unpkg.com/@jupyter-widgets/html-manager@*/dist/embed-amd.js" 
+  src="https://unpkg.com/@jupyter-widgets/html-manager@^0.20.2/dist/embed-amd.js" 
   crossorigin="anonymous">
 </script>"""
 
